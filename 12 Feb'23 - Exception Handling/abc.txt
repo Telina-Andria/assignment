@@ -1,0 +1,1 @@
+# try and else : the program enter in else bloc only if there is no error in try bloc
